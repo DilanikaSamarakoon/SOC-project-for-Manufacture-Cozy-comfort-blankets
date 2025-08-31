@@ -1,0 +1,6 @@
+@Cozy_Comfort_Distributor_HostAddress = http://localhost:5084
+
+GET {{Cozy_Comfort_Distributor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
