@@ -1,6 +1,0 @@
-@ElectroComApi_HostAddress = http://localhost:5227
-
-GET {{ElectroComApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
